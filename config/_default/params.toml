@@ -13,6 +13,8 @@ contentratio = 0.7
 readMore = true
 postSectionName = "blog"
 
+customCss = ["css/custom.css"]
+
 [[socialIcons]]
   icon = "fab fa-github"
   name = "github"
