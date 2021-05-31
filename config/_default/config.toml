@@ -1,0 +1,15 @@
+baseURL = "https://rpbaltazar.com/"
+languageCode = "en-us"
+title = "Rui Baltazar"
+
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+disqusShortname = "rpbaltazar-blog"

@@ -1,0 +1,39 @@
+title = "Rui Baltazar"
+author = "Rui Baltazar"
+description = "I’m an enthusiastic developer, proficient in getting things done. As a developer, I never turn down a nice challenge and I’m always eager to learn. I’m also a travel lover and a PADI divemaster so remote work for me is a plus!"
+profilePicture = "images/rpbaltazar-profile.png"
+
+# Metadata mostly used in document's head
+keywords = "homepage, blog, profile"
+mainSections = ["posts"]
+doNotLoadAnimations = false
+
+disableThemeSwitcher = true
+contentratio = 0.7
+readMore = true
+postSectionName = "blog"
+
+[[socialIcons]]
+  icon = "fab fa-github"
+  name = "github"
+  url = "https://github.com/rpbaltazar"
+
+[[socialIcons]]
+  icon = "fab fa-linkedin"
+  name = "linkedin"
+  url = "http://sg.linkedin.com/in/rpbaltazar"
+
+[[socialIcons]]
+  icon = "fab fa-twitter"
+  name = "twitter"
+  url = "https://twitter.com/rpbaltazar"
+
+[[socialIcons]]
+  icon = "fab fa-instagram"
+  name = "instagram"
+  url = "https://instagram.com/rpbaltazar"
+
+[[socialIcons]]
+  icon = "fas fa-envelope"
+  name = "e-mail"
+  url = "mailto:hi@rpbaltazar.com"
