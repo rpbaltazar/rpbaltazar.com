@@ -1,1 +1,2 @@
-Blogging using [Hugo](https://gohugo.io)
+- Blogging using [Hugo](https://gohugo.io)
+- Publishing via [Netlify](https://netlify.com)

@@ -1,7 +1,9 @@
 ---
 title: "[PT] Um pouco da minha história no andebol da AAC"
 date: 2021-10-18T10:52:16+08:00
-draft: true
+categories:
+- Portuguese
+- Sports
 ---
 
 > Para a história ficam as boas relações que criei graças a esta secção e às pessoas com quem tive o prazer de privar.
